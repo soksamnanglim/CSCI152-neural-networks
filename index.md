@@ -4,13 +4,6 @@ You can use the [editor on GitHub](https://github.com/soksamnanglim/CSCI152-neur
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 ###  Project: Diabetic Retinopathy
 
 For my project, I would like to train neural networks (possibly with a CNN) to detect and classify diabetic retinopathy using photographs of retinas with and without hemorrhages. As an extension, I would also like to train other image processing neural networks on this dataset and compare their accuracies. Then, I would like to possibly predict the stage and progression of retinopathy, and assess the accuracy of the model in classifying retinopathy and predicting the stage/progression of the disease. The extension of this project may encounter some difficulties surrounding the existence and public availability of such a dataset.
