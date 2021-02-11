@@ -9,5 +9,5 @@ For my project, I would like to train neural networks (possibly with a CNN) to d
 2. Train a model to classify images of diabetic retinopathy.
 3. Test the model with varying levels of noise.
 
-### Further Extensions
+### Further Extensions/Some Other Conversations
 Dicuss the application of AI to Medicine and research the downsides of ML classification versus specialists.
