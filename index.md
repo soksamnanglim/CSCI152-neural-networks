@@ -10,7 +10,8 @@ For my project, I would like to train neural networks (possibly with a CNN) to d
 1. Find/clean a dataset of images.
 2. Train a model to classify images of diabetic retinopathy.
 3. Test the model with varying levels of noise.
-4. Extend the model to other areas of precautions for individuals living with diabetes.
+4. 4. Retrain the model to detect and predict stages (dependent on whether a big enough dataset exists)
+5. Discuss
 
 ### Further Extensions/Some Other Conversations
-Dicuss the application of AI to Medicine and research the downsides of ML classification versus specialists.
+Discuss the application of AI to Medicine and research the downsides of ML classification versus specialists.
